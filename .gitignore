@@ -1,3 +1,4 @@
 .devcontainer
 .github*
 Dockerfile
+__pycache__/
